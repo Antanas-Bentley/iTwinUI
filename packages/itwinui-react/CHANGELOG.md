@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.11.1
+
+### Patch Changes
+
+- [#2064](https://github.com/iTwin/iTwinUI/pull/2064): Adjusted `Dialog` and `ExpandableBlock` to round some CSS `transform` values. This helps avoid blurry text on Windows in some cases.
+
 ## 3.11.0
 
 ### Minor Changes
